@@ -1,0 +1,33 @@
+
+
+
+
+
+
+
+/*------------FOR RESPONSIVE--------- */
+/* Mobile and Tablet */
+@media (max-width: 991px) {
+   
+}
+
+/* Tablet */
+@media (min-width: 768px) and (max-width: 991px) {
+    
+}
+
+/* PC and low resolution PC */
+@media (min-width: 992px) {
+    
+}
+
+/* Low resolution PC */
+@media (min-width: 992px) and (max-width: 1199px) {
+    
+
+}
+
+/* Tablet and PC */
+@media (min-width: 768px) {
+   
+}

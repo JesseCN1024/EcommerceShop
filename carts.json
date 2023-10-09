@@ -1,0 +1,28 @@
+[
+  {
+    "products": [
+      {
+        "id": "ac3d7258",
+        "quantity": 1
+      }
+    ],
+    "id": "ca1db6fc"
+  },
+  {
+    "products": [],
+    "id": "816800fa"
+  },
+  {
+    "products": [
+      {
+        "id": "ed1a0390",
+        "quantity": 1
+      },
+      {
+        "id": "2c8745bb",
+        "quantity": 1
+      }
+    ],
+    "id": "f9c9ca74"
+  }
+]
